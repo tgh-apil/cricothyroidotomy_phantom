@@ -41,7 +41,7 @@
 5. Pour roughly 75g of ballistics gel into the mold then insert the molding insert. The top of the insert should be just above the top of the mold.
 > <img src="https://user-images.githubusercontent.com/84343976/233159625-4295ab82-79ad-469b-af4e-9cd0a48d8375.png" width="425"><br>
 > Gel molding process. The sides of the mold have been clamped here to ensure the mold retains its shape.
-6. Wait until gel cools (~45 min) then remove the insert. Peel the gel off the insert carefully. Ensure there are no holes around the area of incision.
+6. Wait until gel cools (~45 min) then remove the insert. Cut off the overlapping edges and peel the gel off the insert carefully. Ensure there are no holes around the area of incision.
 > <img src="https://user-images.githubusercontent.com/84343976/233162122-c5396a24-0df9-4c61-804d-54a8ed76957f.png" width="397"><img src="https://user-images.githubusercontent.com/84343976/233162160-f9bd38f6-3554-4af7-a566-71780d7c1792.png" width="324"><br>
 > Left: post-molding results. Right: gel peeled off of molding insert.
 7. Wrap the insert twice with duct tape and place inside the base, aligning the insert’s hole with the incision site. Place the gel onto the cricothyroidotomy base.
