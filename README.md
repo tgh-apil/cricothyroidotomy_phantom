@@ -5,13 +5,13 @@
 > <img src="https://user-images.githubusercontent.com/84343976/233156160-1441a9da-c61f-4fe8-8bea-032704947652.png" width="700">
 
 #### Printed Parts
-* cricothyroidotomy base
-* cricothyroidotomy molding insert*
-* insert
-* intermediate mold part 1**
-* intermediate mold part 2**
+* base — cricothyroidotomy base.stl
+* molding insert* — cricothyroidotomy molding insert.stl
+* insert — cricothyroidotomy ring.stl
+* intermediate mold part 1** — intermediate mold 1.stl
+* intermediate mold part 2** — intermediate mold 2.stl
 
-\* Print with HTPLA or another heat resistant 3D printing filament. The other components can be printed with any kind of rigid plastic.
+\* ***Print the molding insert with HTPLA or another heat resistant 3D printing filament. The other components can be printed with any kind of rigid plastic.***
 
 \** A portion of these components were modified from NIOSH National Personal Protective Technology Laboratory (NPPTL)’s ISO Digital Headforms (specifically the medium size): https://www.cdc.gov/niosh/npptl/topics/respirators/headforms/default.html
 
