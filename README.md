@@ -1,5 +1,12 @@
 # Cricothyroidotomy Phantom
 
+A cricothyroidotomy training phantom, created using 3D printing and ballistics gel molding. Intended for practice in locating the cricothyroid membrane and creating an incision through it. See assembly instructions below.
+
+This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network.
+
+> <img src="https://user-images.githubusercontent.com/84343976/235988102-e439b88e-eadc-41c1-9424-a383f5a2c61b.png" width="550"><br>
+> Fully assembled phantom.
+
 ## Parts, Materials & Equipment
 ### Parts List
 > <img src="https://user-images.githubusercontent.com/84343976/233156160-1441a9da-c61f-4fe8-8bea-032704947652.png" width="700">
@@ -10,6 +17,8 @@
 * insert — cricothyroidotomy ring.stl
 * intermediate mold part 1** — intermediate mold 1.stl
 * intermediate mold part 2** — intermediate mold 2.stl
+
+Files are available for download [here](https://github.com/tgh-apil/cricothyroidotomy_phantom/tree/main/stl%20files).
 
 \* ***Print the molding insert with HTPLA or another heat resistant 3D printing filament. The other components can be printed with any kind of rigid plastic.***
 
