@@ -1,11 +1,26 @@
 # Cricothyroidotomy Phantom
 
-A cricothyroidotomy training phantom, created using 3D printing and ballistics gel molding. Intended for practice in locating the cricothyroid membrane and creating an incision through it. See assembly instructions below.
+A cricothyroidotomy training phantom, created using 3D printing and ballistics gel molding. Intended for practice in locating the cricothyroid membrane and creating an incision through it. See purchasing information and maintenance and assembly instructions below.
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network.
 
 > <img src="https://user-images.githubusercontent.com/84343976/235988102-e439b88e-eadc-41c1-9424-a383f5a2c61b.png" width="550"><br>
 > Fully assembled phantom.
+
+## Purchasing Information
+
+To purchase this phantom, please email <apil@uhn.ca> and a representative will be in touch with you with more details.
+
+**A purchased phantom contains the following**:
+
+1. APIL Cricothyroidotomy Phantom base
+2. 10 x gel overlays
+3. 10 x fully assembled insert rings
+
+## Care and Maintenance
+Store gel overlays in a bag or box when not in use to prevent tearing from excessive handling. Once an overlay is placed on a phantom and used (i.e. cut into), it can be replaced with another. If more gel overlays are desired, the gel can be remelted and cast to form new overlays by following the assembly instructions below.
+
+A used insert ring can be replaced with another, or can be reused by rewrapping the ring with duct tape.
 
 ## Parts, Materials & Equipment
 ### Parts List
