@@ -56,18 +56,22 @@ Files are available for download [here](https://github.com/tgh-apil/cricothyroid
 * Crock pot, or another method of melting the ballistics gel
 
 ## Assembly Instructions
+**CAUTION**: Use appropriate heat-proof gloves when working with liquefied ballistic gel and/or heat gun.<br>
+**CAUTION**: Work **only** in a very well ventilated area. A fumehood is *highly* recommended.
+
 1. Print out the printed components, using a heat-resistant filament for the molding insert, and any kind of rigid plastic for the other components.
 2. Use four M3 screws to attach the two intermediate mold components together. Seal off the seams with clay or hot glue. Prepare, degas, and pour roughly 750mL of Smooth-On’s Dragon Skin 30A Silicone Rubber (or another silicone of similar hardness) into the intermediate mold. Once cured, remove the silicone mold from the intermediate mold.
 3. Seal off the molding insert to prevent ballistics gel from entering the inside of the insert. Here this was done with a taped insert and silicone.
 > <img src="https://user-images.githubusercontent.com/84343976/233158250-a13ca2a5-06f4-4ce9-82bf-b22fff6281c3.png" width="425"><br>
 > Molding insert, sealed off with tape and silicone.
-4. Melt ballistics gel. (The exact density of the gel is not important, however very low densities should be avoided as this causes it to become easier to tear. Here, a roughly 2:1 mixture of [20% ballistics gel](https://www.clearballistics.com/shop/20-ballistic-gelatin-nato-block-16x6x6/) and [Humimic Medical Ballistics Gel #4](https://humimic.com/product/gelatin-4-medical-gel-by-the-pound/) was used.) Mix in graphite powder when liquid. (Again, the exact concentration is not important, however enough should be added to make the gel difficult to see through.)
-5. Pour roughly 75g of ballistics gel into the mold then insert the molding insert. The top of the insert should be just above the top of the mold.
+4. Melt 80 g of ballistics gel (here, a roughly 2:1 mixture of [20% ballistics gel](https://www.clearballistics.com/shop/20-ballistic-gelatin-nato-block-16x6x6/) and [Humimic Medical Ballistics Gel #4](https://humimic.com/product/gelatin-4-medical-gel-by-the-pound/) was used) in a crockpot at 105C - 115C (approx. 225F - 240F).
+5. Stir graphite powder into liquefied gel until saturated and uniformly distributed.
+6. Pour roughly 75 g of ballistics gel into the mold then insert the molding insert. The top of the insert should be just above the top of the mold.
 > <img src="https://user-images.githubusercontent.com/84343976/233159625-4295ab82-79ad-469b-af4e-9cd0a48d8375.png" width="425"><br>
 > Gel molding process. The sides of the mold have been clamped here to ensure the mold retains its shape.
-6. Wait until gel cools (~45 min) then remove the insert. Cut off the overlapping edges and peel the gel off the insert carefully. Ensure there are no holes around the area of incision.
+7. Wait until gel cools (~45 min) then remove the insert. Cut off the overlapping edges and peel the gel off the insert carefully. Ensure there are no holes around the area of incision.
 > <img src="https://user-images.githubusercontent.com/84343976/233162122-c5396a24-0df9-4c61-804d-54a8ed76957f.png" width="397"><img src="https://user-images.githubusercontent.com/84343976/233162160-f9bd38f6-3554-4af7-a566-71780d7c1792.png" width="324"><br>
 > Left: post-molding results. Right: gel peeled off of molding insert.
-7. Wrap the insert twice with duct tape and place inside the base, aligning the insert’s hole with the incision site. Place the gel onto the cricothyroidotomy base.
+8. Wrap the insert twice with duct tape and place inside the base, aligning the insert’s hole with the incision site. Place the gel onto the cricothyroidotomy base.
 > <img src="https://user-images.githubusercontent.com/84343976/233163836-93f36146-8f33-4fca-a6bb-ea170888ce5b.png" width="425"><br>
 > Assembled phantom.
